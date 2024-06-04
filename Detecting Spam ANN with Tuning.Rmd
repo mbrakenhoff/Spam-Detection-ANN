@@ -21,7 +21,7 @@ knitr::opts_chunk$set(warning = F)
 knitr::opts_chunk$set(message = F)
 knitr::opts_chunk$set(fig.align = "center")
 
-load('final_workspace.RData')
+load('final_workspace.RData') #Workspace load after tuning of parameters
 ```
 
 # Purpose
