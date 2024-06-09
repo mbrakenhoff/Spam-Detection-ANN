@@ -67,6 +67,3 @@ The ANN model developed in this project demonstrates high accuracy and effective
 ## Author
 
 Michael Brakenhoff
-
-
-Feel free to reach out for any questions or further information about the project!
