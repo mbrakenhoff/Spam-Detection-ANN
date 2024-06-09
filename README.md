@@ -29,7 +29,7 @@ This project aims to predict whether an email is spam using an artificial neural
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/username/detect_spam.git
+   git clone https://github.com/mbrakenhoff/detect_spam.git
    cd detect_spam
    ```
 
